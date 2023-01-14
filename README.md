@@ -47,8 +47,12 @@ Edit the readme.md file and push the files to the GitHub to display the contents
 ### MAP POINTER
 ![MAPP](/images/pointer.png)
 
-### Descriptions
+### PLACE DESCRIPTION
 ![MAPD](/images/school.png)
+
+### Validation Report
+![VALID](/images/Validation.png)
+
 
 ## Result:
 Image mapping website created and executed successfully 
